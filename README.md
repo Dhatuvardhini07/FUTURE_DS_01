@@ -45,5 +45,13 @@ Generated business insights
 Provided recommendations
 Final dashboard formatting and reporting
 
+
 ## Outcome:
 This project demonstrates how sales data can be transformed into meaningful insights through visualization and analysis. The dashboard enables quick understanding of business performance and supports informed decision making.
+
+## Repository Contents:
+> Power BI Dashboard File (.pbix)
+> Project Report (PDF)
+> Dataset
+> Screenshots of Dashboard
+
